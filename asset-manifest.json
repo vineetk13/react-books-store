@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-books-store/static/css/main.5c93e762.chunk.css",
+    "main.css": "/react-books-store/static/css/main.2fdaef13.chunk.css",
     "main.js": "/react-books-store/static/js/main.b66bba0c.chunk.js",
     "main.js.map": "/react-books-store/static/js/main.b66bba0c.chunk.js.map",
     "runtime-main.js": "/react-books-store/static/js/runtime-main.00ec7045.js",
@@ -8,15 +8,15 @@
     "static/js/2.c7a793a0.chunk.js": "/react-books-store/static/js/2.c7a793a0.chunk.js",
     "static/js/2.c7a793a0.chunk.js.map": "/react-books-store/static/js/2.c7a793a0.chunk.js.map",
     "index.html": "/react-books-store/index.html",
-    "precache-manifest.4763af006005d80a5ebac208ea6bbe75.js": "/react-books-store/precache-manifest.4763af006005d80a5ebac208ea6bbe75.js",
+    "precache-manifest.1dca61c8155a700dfc91a571c7dbecd1.js": "/react-books-store/precache-manifest.1dca61c8155a700dfc91a571c7dbecd1.js",
     "service-worker.js": "/react-books-store/service-worker.js",
-    "static/css/main.5c93e762.chunk.css.map": "/react-books-store/static/css/main.5c93e762.chunk.css.map",
+    "static/css/main.2fdaef13.chunk.css.map": "/react-books-store/static/css/main.2fdaef13.chunk.css.map",
     "static/js/2.c7a793a0.chunk.js.LICENSE.txt": "/react-books-store/static/js/2.c7a793a0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.00ec7045.js",
     "static/js/2.c7a793a0.chunk.js",
-    "static/css/main.5c93e762.chunk.css",
+    "static/css/main.2fdaef13.chunk.css",
     "static/js/main.b66bba0c.chunk.js"
   ]
 }
