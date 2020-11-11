@@ -59,7 +59,7 @@ p{
   flex-flow: row wrap;
   /* border: 3px solid red; */
 }
-.container>.books{
+.container>.books-container{
   flex-grow:1;
   flex-basis:0;
 }
@@ -92,7 +92,7 @@ p{
 } 
 .nav-list li:hover{
   color: white;
-  background-color:#2475B0;
+  background-color:hsl(205, 66%, 42%);
 }
 .search-input{
   padding: 10px 12px;
